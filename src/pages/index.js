@@ -9,6 +9,7 @@ const IndexPage = () => (
       Hello, My name is Paras Arora. I am from India. I am a front end web
       developer. :)
     </p>
+    <p>checking for changes..</p>
     <Link to="/page-2/">Go to page 2</Link>
   </div>
 )
